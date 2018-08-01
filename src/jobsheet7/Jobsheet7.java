@@ -22,6 +22,13 @@ public class Jobsheet7 {
             System.out.println("isi variable a :"+ a);
             System.out.println("nilai a lebih dari 5");
             
+            System.out.println("\nIf..ELSE..");
+            if(a < 5){
+                System.out.println("isi variable a: "+ a);
+                System.out.println("nilai a kurang dari 5");
+            } else System.out.println("nilai a lebih atau sama dengan 5");
+            
+            
             
         }
                 
